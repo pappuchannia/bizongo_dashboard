@@ -1,0 +1,8 @@
+name: bizongo_dashboard
+title:
+account: bizongo
+server: shinyapps.io
+appId: 164567
+bundleId: 751023
+url: https://bizongo.shinyapps.io/bizongo_dashboard/
+when: 1489736854.56784
